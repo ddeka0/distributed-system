@@ -43,5 +43,7 @@ Testing all the application inside /mrapps/
     1. cd raft
     2. go test run 2A / 2B or 2C
 
-    
+#### Demo:
+
+![Map reduce & Raft Demo](https://github.com/ddeka0/distributed-system/blob/master/demo-v0.1.gif)
     
