@@ -22,6 +22,11 @@ Following is the project directory structure:
     ├── shardkv
     └── shardmaster
 ```
+This project is added with `go.mod` file. Therefore no need to set `GOPATH` for this project.
+Simply clone the repository and following test run should pass.
+
+Check more on Go Module (https://github.com/golang/go/wiki/Modules#faqs--gomod-and-gosum)
+
 #### Using Map Reduce Application:
 
 Testing word count application
